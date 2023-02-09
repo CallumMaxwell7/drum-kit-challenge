@@ -1,0 +1,95 @@
+body{
+    background-color: mediumblue;
+}
+#drums{
+    color: whitesmoke;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: chartreuse;
+}
+.flex-container > #c {
+    background-color: orange;
+     height: 80px;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #s {
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #o {
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #b {
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #h {
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #k{
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #r {
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align:center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #t {
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
+.flex-container > #a {
+    background-color: orange;
+    width: 80px;
+    margin: 10px;
+    color: whitesmoke;
+    text-align: center;
+    line-height: 75px;
+    font-size: 15px;
+}
